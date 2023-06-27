@@ -17,3 +17,14 @@ body
     left: 0;
     outline: none;
 }
+
+.sign {
+    position: absolute;
+    font-size: 25px;
+    font-family: 'Agdasima', sans-serif;
+    bottom: 0;
+    right: 0;
+    padding: 10px;
+    z-index: 100;
+    color: #fff;
+}
